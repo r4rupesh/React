@@ -23,6 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-
-basic-react-app/
-react-state/
